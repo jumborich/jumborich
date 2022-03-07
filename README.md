@@ -1,4 +1,4 @@
-String greeting = "Hi there 👋, I am Richmond Jumbo. I dump all the hacks I learn from old and new emerging technologies here.";
+String greeting = "Hi there 👋, I am Richmond Jumbo. I dump all the hacks I learn from old and emerging new technologies here.";
 
 Jumbo jumbo = new Jumbo(greeting);
 
