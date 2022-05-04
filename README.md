@@ -5,5 +5,5 @@ Jumbo jumbo = new Jumbo(greeting);
 jumbo.greet();
 
 
-- 🔭 I’m currently working on my startup -> Sponsorffy
+- 🔭 I’m currently working to get AWS Certified.
 - 📫 How to reach me: jumbor6@gmail.com
